@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ted-barbier/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://gitlab.com/TedBarbier"><img src="https://img.shields.io/badge/GitLab-TedBarbier-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab"></a>
-  <img src="https://img.shields.io/badge/Recherche-stage%202026%20·%20admin%20sys-2ea44f?style=flat" alt="Recherche de stage 2026 en administration système">
 </p>
 
 ---
@@ -16,8 +15,6 @@
 ## 👋 Bonjour
 
 J'aime comprendre une infrastructure de bout en bout, du câble au déploiement. Chez moi, ça donne un homelab Proxmox géré entièrement en code. À l'ÉTS, des projets autour de Kafka, de la sécurité applicative et de la qualité logicielle.
-
-🎯 **Je cherche un stage en administration système pour 2026.**
 
 > La plupart de mes dépôts récents sont sur [GitLab](https://gitlab.com/TedBarbier).
 
@@ -78,8 +75,6 @@ Kit à fixer sur des lunettes qui alerte le conducteur quand il somnole : Arduin
 ### Hi, I'm Ted
 
 Engineering student at INSA Centre-Val de Loire (STI) and Master's student in Software Engineering at ÉTS Montréal. I like understanding infrastructure end to end, from the cable to the deployment: at home, that means a Proxmox homelab managed entirely as code; at ÉTS, projects around Kafka, application security and software quality.
-
-🎯 **Looking for a 2026 internship in system administration.**
 
 Most of my recent repositories live on [GitLab](https://gitlab.com/TedBarbier).
 
