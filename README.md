@@ -16,7 +16,7 @@
 
 J'aime comprendre une infrastructure de bout en bout, du câble au déploiement. Chez moi, ça donne un homelab Proxmox géré entièrement en code. À l'ÉTS, des projets autour de Kafka, de la sécurité applicative et de la qualité logicielle.
 
-> La plupart de mes dépôts récents sont sur [GitLab](https://gitlab.com/TedBarbier).
+> Mes dépôts publics sont visibles des deux côtés : les projets récents vivent sur [GitLab](https://gitlab.com/TedBarbier) et sont recopiés ici en miroir automatique ; les plus anciens vivent ici, avec une copie archivée sur GitLab.
 
 ## 🛠️ Compétences
 
@@ -76,7 +76,7 @@ Kit à fixer sur des lunettes qui alerte le conducteur quand il somnole : Arduin
 
 Engineering student at INSA Centre-Val de Loire (STI) and Master's student in Software Engineering at ÉTS Montréal. I like understanding infrastructure end to end, from the cable to the deployment: at home, that means a Proxmox homelab managed entirely as code; at ÉTS, projects around Kafka, application security and software quality.
 
-Most of my recent repositories live on [GitLab](https://gitlab.com/TedBarbier).
+My public repositories are visible on both sides: recent projects live on [GitLab](https://gitlab.com/TedBarbier) and are mirrored here automatically; older ones live here, with an archived copy on GitLab.
 
 ### Featured projects
 
